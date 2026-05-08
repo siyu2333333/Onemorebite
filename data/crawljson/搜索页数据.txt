@@ -1,0 +1,1237 @@
+{
+  "body" : {
+    "sort_param_list" : [ {
+      "sort_type" : 1,
+      "is_sort_order" : 1,
+      "sort_name" : "综合",
+      "default_order" : 1
+    }, {
+      "sort_type" : 2,
+      "is_sort_order" : 1,
+      "sort_name" : "销量",
+      "default_order" : 1
+    }, {
+      "sort_type" : 3,
+      "is_sort_order" : 1,
+      "sort_name" : "价格",
+      "default_order" : 1
+    } ],
+    "picUrlBase" : "",
+    "MerchandiseList" : [ {
+      "salesVolume" : "171",
+      "sale_unit" : "袋",
+      "sm_name" : "大牧汗原切小公牛牛腱子1kg/袋",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "1001",
+      "sm_price" : "87.9",
+      "sm_seq" : "4138977",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000037",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "https://membase-yxapp.feiniu.com/images/storage/456372_3x.png",
+      "cornerType" : 0,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "4138977",
+      "newRankingList" : {
+        "descDetail3" : "3",
+        "descDetail2" : "2",
+        "innerLink" : "/pkg-www/pages/hot-selling-new/index?type=0&storeId=1001&firstCategoryId=CG1000000004&secondCategoryId=CG1500000003&rankId=&dataSource=0",
+        "picLink" : "https://img10.fn-mart.com/pic/731f134db4ab28768e6f/kzHzzz52_2tgKduMNn/5xeRjaoaDGQYU9/CsmUI2dtGoCAZP00AAAseMG43ts190_400x400_q75.png.webp",
+        "descDetail1" : "牛肉热卖",
+        "skuCode" : "4138977"
+      },
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "谷饲小公牛 | 18-24月龄 | 前后腿肉原切 | 每份约2-3块 | 低温排酸 | 筋肉交错 | 弹嫩劲道 | 适宜卤煮",
+      "saleStoreId" : "003",
+      "items" : [ ],
+      "cpSeqs" : [ "CG1000000004", "CG1500000003", "CC1000000037" ],
+      "main_small_corner" : [ ],
+      "recommendTagType" : 3,
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/973b134ee0a0193f8bad/knqnTT5nFzCghdZdNT/1ioykRvyOacaWy/CsmRvmZ7fiiAb0wnAAVFC8CQQ34953_400x400_q75.jpg.webp",
+      "corners" : [ ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 108,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "recommendTag" : "回头客超过2万人",
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "https://alcdn-img01.fn-mart.com/video/202103/10/424610254156746753.mp4",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "https://membase-yxapp.feiniu.com/images/goods/freezeBig.png",
+      "activityGoods" : false,
+      "exchangeCardLabel" : [ ],
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "1001"
+    }, {
+      "salesVolume" : "417",
+      "sale_unit" : "盒",
+      "sm_name" : "安格斯牛肉卷500g/盒",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "1001",
+      "sm_price" : "29.9",
+      "sm_seq" : "4001732",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000039",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "https://membase-yxapp.feiniu.com/images/storage/456372_3x.png",
+      "cornerType" : 1,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "4001732",
+      "newRankingList" : {
+        "descDetail3" : "3",
+        "descDetail2" : "1",
+        "innerLink" : "/pkg-www/pages/hot-selling-new/index?type=0&storeId=1001&firstCategoryId=CG1000000004&secondCategoryId=CG1500000003&rankId=&dataSource=0",
+        "picLink" : "https://img10.fn-mart.com/pic/731f134db4ab28768e6f/kzHzzz52_2tgKduMNn/5xeRjaoaDGQYU9/CsmUI2dtGoCAZP00AAAseMG43ts190_400x400_q75.png.webp",
+        "descDetail1" : "牛肉热卖",
+        "skuCode" : "4001732"
+      },
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "安格斯牛 | 纯牛肉无添加 | 口感细腻带脂香 | 紧实有嚼劲 | 烫涮12秒佳",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "bgcolor" : "#FF2B1F",
+        "bgColor" : "",
+        "color" : "#FF2B1F",
+        "form" : 4,
+        "bgcolorEnd" : "",
+        "name" : "省20元",
+        "bgcolorStart" : "#FF2B1F",
+        "bordercolor" : "#FFAAA5"
+      } ],
+      "upperLeftTag" : "6折",
+      "cpSeqs" : [ "CG1000000004", "CG1500000003", "CC1000000039" ],
+      "main_small_corner" : [ ],
+      "recommendTagType" : 3,
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/ab311350272cdd005f08/h28z22sT_nLdhlug0T/5iSymGZyZRPYOx/CsmUFmkyOtWABPHgAC9OGb2NYY4936_400x400_q75.gif",
+      "corners" : [ {
+        "borderColor" : "#FFE9E8",
+        "bgColor" : "#FFE9E8",
+        "endColor" : "#FFE9E8",
+        "type" : 2,
+        "textColor" : "#FF2B1F",
+        "desc" : "省20元",
+        "startColor" : "#FFE9E8"
+      } ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 209,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "recommendTag" : "回头客超过4.7万人",
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "https://alcdn-img01.fn-mart.com/video/202103/10/424610254156746753.mp4",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "https://membase-yxapp.feiniu.com/images/goods/freezeBig.png",
+      "activityGoods" : true,
+      "exchangeCardLabel" : [ ],
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "it_mprice" : "49.9",
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "1001"
+    }, {
+      "salesVolume" : "337",
+      "sale_unit" : "盒",
+      "sm_name" : "黑牛雪花肥牛卷500g/盒",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "1001",
+      "sm_price" : "29.9",
+      "sm_seq" : "4052923",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000039",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "https://membase-yxapp.feiniu.com/images/storage/456372_3x.png",
+      "cornerType" : 1,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "4052923",
+      "newRankingList" : {
+        "descDetail3" : "3",
+        "descDetail2" : "3",
+        "innerLink" : "/pkg-www/pages/hot-selling-new/index?type=0&storeId=1001&firstCategoryId=CG1000000004&secondCategoryId=CG1500000003&rankId=&dataSource=0",
+        "picLink" : "https://img10.fn-mart.com/pic/731f134db4ab28768e6f/kzHzzz52_2tgKduMNn/5xeRjaoaDGQYU9/CsmUI2dtGoCAZP00AAAseMG43ts190_400x400_q75.png.webp",
+        "descDetail1" : "牛肉热卖",
+        "skuCode" : "4052923"
+      },
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "安格斯黑牛原切 | 谷饲喂养 | 低温排酸 | 纯牛肉无添加 | 口感细腻有嚼劲 | 涮煮不易散 | 火锅搭子",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "bgcolor" : "#FF2B1F",
+        "bgColor" : "",
+        "color" : "#FF2B1F",
+        "form" : 4,
+        "bgcolorEnd" : "",
+        "name" : "省20元",
+        "bgcolorStart" : "#FF2B1F",
+        "bordercolor" : "#FFAAA5"
+      } ],
+      "upperLeftTag" : "6折",
+      "cpSeqs" : [ "CG1000000004", "CG1500000003", "CC1000000039" ],
+      "main_small_corner" : [ ],
+      "recommendTagType" : 1,
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/0620135029ab1b78f8b7/Kz62zz12DTtlkdul02/5xoGoRUyfaXaVa/CsmUFWk3lqeAR70qABab-zCXHjk647_400x400_q75.gif",
+      "corners" : [ {
+        "borderColor" : "#FFE9E8",
+        "bgColor" : "#FFE9E8",
+        "endColor" : "#FFE9E8",
+        "type" : 2,
+        "textColor" : "#FF2B1F",
+        "desc" : "省20元",
+        "startColor" : "#FFE9E8"
+      } ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 284,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "recommendTag" : "超过25.1万人好评",
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "https://alcdn-img01.fn-mart.com/video/202103/10/424610254156746753.mp4",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "https://membase-yxapp.feiniu.com/images/goods/freezeBig.png",
+      "activityGoods" : true,
+      "exchangeCardLabel" : [ ],
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "it_mprice" : "49.9",
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "1001"
+    }, {
+      "salesVolume" : "153",
+      "sale_unit" : "盒",
+      "sm_name" : "精道安格斯谷饲200天(M3+)雪花牛肉片200g/盒",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "1001",
+      "sm_price" : "19.9",
+      "sm_seq" : "4144157",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000039",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "https://membase-yxapp.feiniu.com/images/storage/456372_3x.png",
+      "cornerType" : 1,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "4144157",
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "谷饲200天 | 优选上脑 | 咀嚼无筋感 | 薄切易熟 | 原切不加工，原味不腌制 | 烤/涮/炒/煮皆可",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "bgcolor" : "#FF2B1F",
+        "bgColor" : "",
+        "color" : "#FF2B1F",
+        "form" : 4,
+        "bgcolorEnd" : "",
+        "name" : "省10元",
+        "bgcolorStart" : "#FF2B1F",
+        "bordercolor" : "#FFAAA5"
+      } ],
+      "upperLeftTag" : "6.7折",
+      "cpSeqs" : [ "CG1000000004", "CG1500000003", "CC1000000039" ],
+      "main_small_corner" : [ ],
+      "recommendTagType" : 3,
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/7da51350d48e211d343c/k2q2nn72FzflKgUMMT/5xoGoRpyMavap9/CsmUJGgJ0pOAL4y7AAa2hADV6-4436_400x400_q75.jpg.webp",
+      "sceneField" : {
+        "toLink" : "fnfresh://sceneLanding?sceneId=68072&fromPage=3&fromSku=4144157",
+        "name" : "更多大润发美食节",
+        "sceneId" : "68072"
+      },
+      "corners" : [ {
+        "borderColor" : "#FFE9E8",
+        "bgColor" : "#FFE9E8",
+        "endColor" : "#FFE9E8",
+        "type" : 2,
+        "textColor" : "#FF2B1F",
+        "desc" : "省10元",
+        "startColor" : "#FFE9E8"
+      } ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 38,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "recommendTag" : "回头客超过1.4万人",
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "https://alcdn-img01.fn-mart.com/video/202103/10/424610254156746753.mp4",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "https://membase-yxapp.feiniu.com/images/goods/freezeBig.png",
+      "activityGoods" : true,
+      "exchangeCardLabel" : [ ],
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "it_mprice" : "29.9",
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "1001"
+    }, {
+      "salesVolume" : "116",
+      "sale_unit" : "盒",
+      "sm_name" : "大牧汗谷饲黄牛肉卷200g/盒",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "1001",
+      "sm_price" : "17.9",
+      "sm_seq" : "4001736",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000039",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "https://membase-yxapp.feiniu.com/images/storage/456372_3x.png",
+      "cornerType" : 1,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "4001736",
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "谷饲300天 | 优选牛前部位 | 脂香肉嫩 | 可涮可炒",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "bgcolor" : "#FF2B1F",
+        "bgColor" : "",
+        "color" : "#FF2B1F",
+        "form" : 4,
+        "bgcolorEnd" : "",
+        "name" : "省12元",
+        "bgcolorStart" : "#FF2B1F",
+        "bordercolor" : "#FFAAA5"
+      } ],
+      "upperLeftTag" : "6折",
+      "cpSeqs" : [ "CG1000000004", "CG1500000003", "CC1000000039" ],
+      "main_small_corner" : [ ],
+      "recommendTagType" : 1,
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/e7a3134cf0052a0105e3/hzqzTT7nv2LlBdZlnn/sieaKyeyTaJxkx/CsmUHWTSCPCAIWJrAAQzXtlz4EY915_400x400_q75.jpg.webp",
+      "corners" : [ {
+        "borderColor" : "#FFE9E8",
+        "bgColor" : "#FFE9E8",
+        "endColor" : "#FFE9E8",
+        "type" : 2,
+        "textColor" : "#FF2B1F",
+        "desc" : "省12元",
+        "startColor" : "#FFE9E8"
+      } ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 73,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "recommendTag" : "超过5万人好评",
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "https://alcdn-img01.fn-mart.com/video/202103/10/424610254156746753.mp4",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "https://membase-yxapp.feiniu.com/images/goods/freezeBig.png",
+      "activityGoods" : true,
+      "exchangeCardLabel" : [ ],
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "it_mprice" : "29.9",
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "1001"
+    }, {
+      "salesVolume" : "170",
+      "sale_unit" : "盒",
+      "sm_name" : "谷饲牛肉卷(超省)450g/盒",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "1001",
+      "sm_price" : "19.9",
+      "sm_seq" : "4257068",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000039",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "https://membase-yxapp.feiniu.com/images/storage/456372_3x.png",
+      "cornerType" : 0,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "4257068",
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "甄选南美谷饲牛肉 | 花纹清晰 | 肉质细嫩",
+      "saleStoreId" : "003",
+      "items" : [ ],
+      "cpSeqs" : [ "CG1000000004", "CG1500000003", "CC1000000039" ],
+      "main_small_corner" : [ ],
+      "recommendTagType" : 1,
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/9bfa1350d44625d46e01/h262TT5T_nfdBlZdbT/7YSGFaoalyfGzy/CsmUI2dx8kmAP7rgAAW7M34qUR4455_400x400_q75.jpg.webp",
+      "corners" : [ ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 233,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "recommendTag" : "超过6.1万人好评",
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "https://alcdn-img01.fn-mart.com/video/202103/10/424610254156746753.mp4",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "https://membase-yxapp.feiniu.com/images/goods/freezeBig.png",
+      "activityGoods" : false,
+      "exchangeCardLabel" : [ {
+        "color" : "",
+        "form" : 2,
+        "rlink" : "https://img10.fn-mart.com/pic/9a66134fa029dc0d51f7/BnHT2212FTtMkMudnn/59eyEaBRdGWxJY/CsmUHGbeS2OAOI7eAAAWLdLKOBc954.png",
+        "bgcolorEnd" : "",
+        "name" : "",
+        "bgcolorStart" : "",
+        "bordercolor" : ""
+      } ],
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "1001"
+    }, {
+      "salesVolume" : "59",
+      "sale_unit" : "袋",
+      "sm_name" : "大牧汗精制肥牛片450g/袋",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "1001",
+      "sm_price" : "39.9",
+      "sm_seq" : "1625943",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000039",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "https://membase-yxapp.feiniu.com/images/storage/456372_3x.png",
+      "cornerType" : 1,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "1625943",
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "夏南牛 | 谷饲喂养 | 原切牛腿肉 | 配料只有牛肉 | 脂香肉嫩 | 家庭畅享装",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "bgcolor" : "#FF2B1F",
+        "bgColor" : "",
+        "color" : "#FF2B1F",
+        "form" : 4,
+        "bgcolorEnd" : "",
+        "name" : "省10元",
+        "bgcolorStart" : "#FF2B1F",
+        "bordercolor" : "#FFAAA5"
+      } ],
+      "upperLeftTag" : "8折",
+      "cpSeqs" : [ "CG1000000004", "CG1500000003", "CC1000000039" ],
+      "main_small_corner" : [ ],
+      "recommendTagType" : 3,
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/1367134cad381bd6c190/Kz62zz12DTtlkdul42/simajaDGBadaPG/CsmRvWSsxryANlUiAAgg37QkvuM354_400x400_q75.png.webp",
+      "corners" : [ {
+        "borderColor" : "#FFE9E8",
+        "bgColor" : "#FFE9E8",
+        "endColor" : "#FFE9E8",
+        "type" : 2,
+        "textColor" : "#FF2B1F",
+        "desc" : "省10元",
+        "startColor" : "#FFE9E8"
+      } ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 69,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "recommendTag" : "回头客超过9000人",
+      "isPairItem" : "0",
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "https://alcdn-img01.fn-mart.com/video/202103/10/424610254156746753.mp4",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "https://membase-yxapp.feiniu.com/images/goods/freezeBig.png",
+      "activityGoods" : true,
+      "exchangeCardLabel" : [ ],
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "it_mprice" : "49.9",
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "1001"
+    }, {
+      "salesVolume" : "61",
+      "sale_unit" : "盒",
+      "sm_name" : "谷饲牛肉卷300g/盒",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "1001",
+      "sm_price" : "19.9",
+      "sm_seq" : "3869832",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000039",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "https://membase-yxapp.feiniu.com/images/storage/456372_3x.png",
+      "cornerType" : 1,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "3869832",
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "谷物饲养150天 | 整块原切 | 肥瘦相宜 | 肉香醇厚 | 脂香满口 | 嚼劲十足 | 15秒轻涮",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "bgcolor" : "#FF2B1F",
+        "bgColor" : "",
+        "color" : "#FF2B1F",
+        "form" : 4,
+        "bgcolorEnd" : "",
+        "name" : "省2.9元",
+        "bgcolorStart" : "#FF2B1F",
+        "bordercolor" : "#FFAAA5"
+      } ],
+      "upperLeftTag" : "8.8折",
+      "cpSeqs" : [ "CG1000000004", "CG1500000003", "CC1000000039" ],
+      "main_small_corner" : [ ],
+      "recommendTagType" : 3,
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/f87b1350254127e63535/BTqn225nv2LgBMUMu2/1ioRmyWavak9SG/CsmUGGkupJOAfQnxABjoBf1CEEM791_400x400_q75.gif",
+      "corners" : [ {
+        "borderColor" : "#FFE9E8",
+        "bgColor" : "#FFE9E8",
+        "endColor" : "#FFE9E8",
+        "type" : 2,
+        "textColor" : "#FF2B1F",
+        "desc" : "省2.9元",
+        "startColor" : "#FFE9E8"
+      } ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 20,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "recommendTag" : "回头客超过1.1万人",
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "https://alcdn-img01.fn-mart.com/video/202103/10/424610254156746753.mp4",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "https://membase-yxapp.feiniu.com/images/goods/freezeBig.png",
+      "activityGoods" : true,
+      "exchangeCardLabel" : [ ],
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "it_mprice" : "22.8",
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "1001"
+    }, {
+      "salesVolume" : "38",
+      "sale_unit" : "盒",
+      "sm_name" : "精道安格斯眼肉牛排150g/盒",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "1001",
+      "sm_price" : "19.9",
+      "sm_seq" : "4144158",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000035",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "https://membase-yxapp.feiniu.com/images/storage/456372_3x.png",
+      "cornerType" : 1,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "4144158",
+      "newRankingList" : {
+        "descDetail3" : "3",
+        "descDetail2" : "3",
+        "innerLink" : "/pkg-www/pages/hot-selling-new/index?type=0&storeId=1001&firstCategoryId=CG1000000004&secondCategoryId=CC1000000035&rankId=&dataSource=0",
+        "picLink" : "https://img10.fn-mart.com/pic/731f134db4ab28768e6f/kzHzzz52_2tgKduMNn/5xeRjaoaDGQYU9/CsmUI2dtGoCAZP00AAAseMG43ts190_400x400_q75.png.webp",
+        "descDetail1" : "牛排热卖",
+        "skuCode" : "4144158"
+      },
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "纯血安格斯 | 进口原切 | 雪花丰富 | 油脂浓郁 | 鲜嫩多汁",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "bgcolor" : "#FF2B1F",
+        "bgColor" : "",
+        "color" : "#FF2B1F",
+        "form" : 4,
+        "bgcolorEnd" : "",
+        "name" : "省10元",
+        "bgcolorStart" : "#FF2B1F",
+        "bordercolor" : "#FFAAA5"
+      }, {
+        "color" : "#FF5000",
+        "form" : 3,
+        "name" : "多款式商品",
+        "bordercolor" : "#FF7232"
+      } ],
+      "upperLeftTag" : "6.7折",
+      "cpSeqs" : [ "CG1000000004", "CC1000000035" ],
+      "main_small_corner" : [ ],
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/7b46134f20092a03a685/kz8zTT1n_zCdkdVMTT/simapaQGWYkavG/CsmUHWaGaUmALkSjAAeG2FnRr_g641_400x400_q75.jpg.webp",
+      "corners" : [ {
+        "borderColor" : "#FFE9E8",
+        "bgColor" : "#FFE9E8",
+        "endColor" : "#FFE9E8",
+        "type" : 2,
+        "textColor" : "#FF2B1F",
+        "desc" : "省10元",
+        "startColor" : "#FFE9E8"
+      } ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 31,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "recommendTag" : "",
+      "isPairItem" : "1",
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "https://alcdn-img01.fn-mart.com/video/202103/10/424610254156746753.mp4",
+      "estimateTag" : "非常满意，还会回购",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "https://membase-yxapp.feiniu.com/images/goods/freezeBig.png",
+      "activityGoods" : true,
+      "exchangeCardLabel" : [ ],
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "it_mprice" : "29.9",
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "1001"
+    }, {
+      "salesVolume" : "20",
+      "sale_unit" : "盒",
+      "sm_name" : "澳洲肥牛卷1kg/盒",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "1001",
+      "sm_price" : "79.9",
+      "sm_seq" : "4239080",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000039",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "https://membase-yxapp.feiniu.com/images/storage/456372_3x.png",
+      "cornerType" : 1,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "4239080",
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "澳洲进口 | 脂香肉嫩 | 涮煮炒 | 家庭装",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "bgcolor" : "#FF2B1F",
+        "bgColor" : "",
+        "color" : "#FF2B1F",
+        "form" : 4,
+        "bgcolorEnd" : "",
+        "name" : "省19.1元",
+        "bgcolorStart" : "#FF2B1F",
+        "bordercolor" : "#FFAAA5"
+      }, {
+        "color" : "#FF2B1F",
+        "form" : 3,
+        "name" : "仅剩9件",
+        "bordercolor" : "#FF4D43"
+      } ],
+      "upperLeftTag" : "8.1折",
+      "cpSeqs" : [ "CG1000000004", "CG1500000003", "CC1000000039" ],
+      "main_small_corner" : [ ],
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/4593135289dd2a387b44/BT62TT52F2LdKlVlNn/1xmGUGmyBGPiEx/CsmUKGdaVhOAFwpcAARPKpEUBqg542_400x400_q75.jpg.webp",
+      "corners" : [ {
+        "borderColor" : "#FFE9E8",
+        "bgColor" : "#FFE9E8",
+        "endColor" : "#FFE9E8",
+        "type" : 2,
+        "textColor" : "#FF2B1F",
+        "desc" : "省19.1元",
+        "startColor" : "#FFE9E8"
+      } ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 9,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "recommendTag" : "",
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "https://alcdn-img01.fn-mart.com/video/202103/10/424610254156746753.mp4",
+      "estimateTag" : "一大盒量非常的足",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "https://membase-yxapp.feiniu.com/images/goods/freezeBig.png",
+      "activityGoods" : true,
+      "exchangeCardLabel" : [ ],
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "it_mprice" : "99",
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "1001"
+    } ],
+    "refined_keywords" : "",
+    "refinedAbtest" : 0,
+    "firstCategoryId" : "CG1000000004",
+    "delivery_tips" : "",
+    "filter" : [ {
+      "has_child_nodes" : 1,
+      "form" : 2,
+      "children" : [ {
+        "min" : "",
+        "max" : "",
+        "name" : "价格",
+        "subform" : 2
+      }, {
+        "name" : "分类",
+        "subform" : 3,
+        "child" : [ {
+          "si_seq" : "",
+          "cp_name" : "全部",
+          "cp_seq" : ""
+        }, {
+          "children" : [ {
+            "si_seq" : "C1161505",
+            "cp_name" : "方便面",
+            "cp_seq" : "CC1000000212"
+          }, {
+            "si_seq" : "C1164552",
+            "cp_name" : "火腿肠/常温熟食",
+            "cp_seq" : "CC309720"
+          }, {
+            "si_seq" : "C1253204",
+            "cp_name" : "自热食品",
+            "cp_seq" : "CC311989"
+          }, {
+            "si_seq" : "C1253176",
+            "cp_name" : "方便粉/饭",
+            "cp_seq" : "CC311987"
+          } ],
+          "si_seq" : "C1159776",
+          "cp_name" : "方便速食",
+          "cp_seq" : "CG1500000042"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1161827",
+            "cp_name" : "牛其它部位",
+            "cp_seq" : "CC1000000040"
+          }, {
+            "si_seq" : "C1161799",
+            "cp_name" : "牛尾",
+            "cp_seq" : "CC1000000038"
+          }, {
+            "si_seq" : "C1161813",
+            "cp_name" : "肉卷肉片",
+            "cp_seq" : "CC1000000039"
+          }, {
+            "si_seq" : "C1225060",
+            "cp_name" : "肉丝肉糜",
+            "cp_seq" : "CC311500"
+          }, {
+            "si_seq" : "C1253041",
+            "cp_name" : "牛副产品类",
+            "cp_seq" : "CC311986"
+          }, {
+            "si_seq" : "C1161785",
+            "cp_name" : "牛腱",
+            "cp_seq" : "CC1000000037"
+          } ],
+          "si_seq" : "C1159951",
+          "cp_name" : "牛肉",
+          "cp_seq" : "CG1500000003"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1161288",
+            "cp_name" : "牛肉小食",
+            "cp_seq" : "CC1000000182"
+          }, {
+            "si_seq" : "C1161295",
+            "cp_name" : "猪肉小食",
+            "cp_seq" : "CC1000000183"
+          }, {
+            "si_seq" : "C1161323",
+            "cp_name" : "肉松",
+            "cp_seq" : "CC1000000187"
+          } ],
+          "si_seq" : "C1159685",
+          "cp_name" : "肉干小食",
+          "cp_seq" : "CG1500000035"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1160994",
+            "cp_name" : "犬用干粮",
+            "cp_seq" : "CC1000000351"
+          }, {
+            "si_seq" : "C1161022",
+            "cp_name" : "犬用零食",
+            "cp_seq" : "CC1000000353"
+          } ],
+          "si_seq" : "C1237805",
+          "cp_name" : "狗狗食品",
+          "cp_seq" : "CG311525"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1161617",
+            "cp_name" : "肉类酱",
+            "cp_seq" : "CC1000000228"
+          }, {
+            "si_seq" : "C1161631",
+            "cp_name" : "其它酱",
+            "cp_seq" : "CC1000000230"
+          } ],
+          "si_seq" : "C1159881",
+          "cp_name" : "调味酱",
+          "cp_seq" : "CG1500000044"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1160287",
+            "cp_name" : "速食牛排",
+            "cp_seq" : "CC1000000089"
+          } ],
+          "si_seq" : "C1159300",
+          "cp_name" : "品牌牛排",
+          "cp_seq" : "CG1500000014"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1160273",
+            "cp_name" : "手抓饼/馅饼",
+            "cp_seq" : "CC1000000088"
+          }, {
+            "si_seq" : "C1258019",
+            "cp_name" : "披萨/卷类",
+            "cp_seq" : "CC312012"
+          } ],
+          "si_seq" : "C1163103",
+          "cp_name" : "饼类/点心",
+          "cp_seq" : "CG309668"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1160371",
+            "cp_name" : "其他丸/肉类",
+            "cp_seq" : "CC1000000095"
+          }, {
+            "si_seq" : "C1160343",
+            "cp_name" : "肉丸",
+            "cp_seq" : "CC1000000093"
+          } ],
+          "si_seq" : "C1159314",
+          "cp_name" : "♨️火锅丸滑",
+          "cp_seq" : "CG1500000015"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1161771",
+            "cp_name" : "火锅料",
+            "cp_seq" : "CC1000000240"
+          }, {
+            "si_seq" : "C1161750",
+            "cp_name" : "其它调味料",
+            "cp_seq" : "CC1000000238"
+          } ],
+          "si_seq" : "C1159944",
+          "cp_name" : "调味料",
+          "cp_seq" : "CG1500000046"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1160196",
+            "cp_name" : "猪牛禽肉即食",
+            "cp_seq" : "CC1000000080"
+          }, {
+            "si_seq" : "C1160175",
+            "cp_name" : "香肠/烤肠",
+            "cp_seq" : "CC1000000078"
+          }, {
+            "si_seq" : "C1160182",
+            "cp_name" : "火腿/培根",
+            "cp_seq" : "CC1000000079"
+          } ],
+          "si_seq" : "C1159244",
+          "cp_name" : "肉肠培根",
+          "cp_seq" : "CG1500000013"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1237837",
+            "cp_name" : "猫用零食",
+            "cp_seq" : "CC311527"
+          }, {
+            "si_seq" : "C1237823",
+            "cp_name" : "猫用湿粮",
+            "cp_seq" : "CC311526"
+          }, {
+            "si_seq" : "C1161008",
+            "cp_name" : "猫用干粮",
+            "cp_seq" : "CC1000000352"
+          } ],
+          "si_seq" : "C1237791",
+          "cp_name" : "猫咪食品",
+          "cp_seq" : "CG311524"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1160210",
+            "cp_name" : "调味速食面",
+            "cp_seq" : "CC1000000081"
+          }, {
+            "si_seq" : "C1160301",
+            "cp_name" : "炒饭焗饭",
+            "cp_seq" : "CC1000000090"
+          } ],
+          "si_seq" : "C1179995",
+          "cp_name" : "面条米饭",
+          "cp_seq" : "CG309953"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1161169",
+            "cp_name" : "夹心",
+            "cp_seq" : "CC1000000165"
+          }, {
+            "si_seq" : "C1161155",
+            "cp_name" : "咸味",
+            "cp_seq" : "CC1000000163"
+          }, {
+            "si_seq" : "C1161197",
+            "cp_name" : "零食饼干",
+            "cp_seq" : "CC1000000169"
+          } ],
+          "si_seq" : "C1159664",
+          "cp_name" : "饼干曲奇",
+          "cp_seq" : "CG1500000032"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1161274",
+            "cp_name" : "其他膨化",
+            "cp_seq" : "CC1000000180"
+          }, {
+            "si_seq" : "C1162431",
+            "cp_name" : "锅巴",
+            "cp_seq" : "CC399595"
+          } ],
+          "si_seq" : "C1159678",
+          "cp_name" : "膨化零食",
+          "cp_seq" : "CG1500000034"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1161792",
+            "cp_name" : "肉类罐头",
+            "cp_seq" : "CC1000000241"
+          }, {
+            "si_seq" : "C1161820",
+            "cp_name" : "风味腐乳",
+            "cp_seq" : "CC1000000243"
+          } ],
+          "si_seq" : "C1159958",
+          "cp_name" : "罐头/酱菜",
+          "cp_seq" : "CG1500000047"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1255973",
+            "cp_name" : "快手菜",
+            "cp_seq" : "CC312004"
+          } ],
+          "si_seq" : "C1179981",
+          "cp_name" : "方便菜肴",
+          "cp_seq" : "CG309952"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1253232",
+            "cp_name" : "意面",
+            "cp_seq" : "CC311991"
+          } ],
+          "si_seq" : "C1253218",
+          "cp_name" : "面条/粉丝",
+          "cp_seq" : "CG311990"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1161701",
+            "cp_name" : "其它调味汁",
+            "cp_seq" : "CC1000000235"
+          } ],
+          "si_seq" : "C1159937",
+          "cp_name" : "调味汁",
+          "cp_seq" : "CG1500000045"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1160322",
+            "cp_name" : "炸锅美味",
+            "cp_seq" : "CC1000000092"
+          } ],
+          "si_seq" : "C1258089",
+          "cp_name" : "炸锅美味",
+          "cp_seq" : "CG312017"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1159258",
+            "cp_name" : "包子/小笼",
+            "cp_seq" : "CC1000000083"
+          }, {
+            "si_seq" : "C1257990",
+            "cp_name" : "烧麦",
+            "cp_seq" : "CC312010"
+          } ],
+          "si_seq" : "C1163111",
+          "cp_name" : "包子馒头",
+          "cp_seq" : "CG309669"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1160399",
+            "cp_name" : "零食",
+            "cp_seq" : "CC1000000303"
+          } ],
+          "si_seq" : "C1159321",
+          "cp_name" : "婴幼辅食",
+          "cp_seq" : "CG1500000060"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1159279",
+            "cp_name" : "速冻水饺",
+            "cp_seq" : "CC1000000085"
+          } ],
+          "si_seq" : "C1163125",
+          "cp_name" : "水饺馄饨",
+          "cp_seq" : "CG309672"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1258160",
+            "cp_name" : "粥/饭",
+            "cp_seq" : "CC312022"
+          } ],
+          "si_seq" : "C1179911",
+          "cp_name" : "面条主食",
+          "cp_seq" : "CG309947"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1162058",
+            "cp_name" : "火锅海鲜",
+            "cp_seq" : "CC1000000057"
+          } ],
+          "si_seq" : "C1159181",
+          "cp_name" : "海鲜水产",
+          "cp_seq" : "CG1000000005"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1160462",
+            "cp_name" : "经典卤味",
+            "cp_seq" : "CC1000000106"
+          } ],
+          "si_seq" : "C1159083",
+          "cp_name" : "熟食面点",
+          "cp_seq" : "CG1000000007"
+        } ]
+      } ]
+    } ],
+    "abtest" : "",
+    "total" : 382,
+    "screeningInfo" : [ {
+      "name" : "价格",
+      "subform" : 2,
+      "child" : [ ]
+    }, {
+      "name" : "分类",
+      "subform" : 3,
+      "child" : [ {
+        "cpSeq" : "CC1000000037",
+        "cpName" : "牛腱"
+      }, {
+        "cpSeq" : "CC312004",
+        "cpName" : "快手菜"
+      }, {
+        "cpSeq" : "CC311500",
+        "cpName" : "牛肉糜/丝/片"
+      }, {
+        "cpSeq" : "CC1000000035",
+        "cpName" : "牛排"
+      }, {
+        "cpSeq" : "CC1000000089",
+        "cpName" : "速食牛排"
+      }, {
+        "cpSeq" : "CC1000000106",
+        "cpName" : "经典卤味"
+      }, {
+        "cpSeq" : "CC311986",
+        "cpName" : "牛副产品类"
+      }, {
+        "cpSeq" : "CC1000000039",
+        "cpName" : "牛肉卷/片"
+      }, {
+        "cpSeq" : "CC1000000038",
+        "cpName" : "牛尾"
+      } ]
+    }, {
+      "name" : "品牌",
+      "subform" : 4,
+      "child" : [ {
+        "brandName" : "自营",
+        "newBrandId" : "437101"
+      }, {
+        "brandName" : "大牧汗",
+        "newBrandId" : "427563"
+      }, {
+        "brandName" : "精道",
+        "newBrandId" : "163037923148"
+      }, {
+        "brandName" : "科尔沁",
+        "newBrandId" : "418937"
+      }, {
+        "brandName" : "顶诺",
+        "newBrandId" : "427651"
+      }, {
+        "brandName" : "天萃庭",
+        "newBrandId" : "1993153"
+      }, {
+        "brandName" : "天谱乐食",
+        "newBrandId" : "161828223528"
+      }, {
+        "brandName" : "炙热女王",
+        "newBrandId" : "161960383391"
+      }, {
+        "brandName" : "认养一头牛",
+        "newBrandId" : "159581058789"
+      }, {
+        "brandName" : "展翔",
+        "newBrandId" : "1669969041568"
+      }, {
+        "brandName" : "以牛为本",
+        "newBrandId" : "1746781451011"
+      }, {
+        "brandName" : "大润发(RT-Mart)",
+        "newBrandId" : "434358"
+      }, {
+        "brandName" : "东方港湾",
+        "newBrandId" : "1990011"
+      }, {
+        "brandName" : "雨润",
+        "newBrandId" : "401608"
+      }, {
+        "brandName" : "思念",
+        "newBrandId" : "427566"
+      }, {
+        "brandName" : "潮香村",
+        "newBrandId" : "427569"
+      }, {
+        "brandName" : "自制",
+        "newBrandId" : "159659401890"
+      }, {
+        "brandName" : "牧童欢歌",
+        "newBrandId" : "160136774869"
+      }, {
+        "brandName" : "冻品先生",
+        "newBrandId" : "1635492420262"
+      }, {
+        "brandName" : "司农鲜亨",
+        "newBrandId" : "1638759720641"
+      }, {
+        "brandName" : "朕宅",
+        "newBrandId" : "1676360205786"
+      } ]
+    } ],
+    "totalPageCount" : 39,
+    "keyWordsRecommend" : [ ],
+    "relationCatrgory" : "CC1000000037,CC312004,CC309685,CC1000000036,CC1000000102,CC311500,CC1000000035,CC311501,CC1000000089,CC1000000107,CC1000000106,CC311986,CC1000000105,CC1000000039,CC1000000104,CC1000000038,CC311517,CC309688,CC309742,CC1000000091,CC309718,CC1000000080,CC1000000040,CC309682,CC1000000100,CC309948,CC1000000086,CC1000000085,CC1000000189,CC1000000092",
+    "shoppers" : {
+      "whetherToHit" : 0,
+      "shoppingGuideType" : 0
+    },
+    "seacondCategoryId" : "CG1500000003"
+  },
+  "debug" : [ ],
+  "elapsedTime" : 154,
+  "errorCode" : 0,
+  "errorDesc" : "",
+  "logCode" : "eec1c7abdb5106d48ddaa1e5f8b6170c",
+  "success" : true
+}

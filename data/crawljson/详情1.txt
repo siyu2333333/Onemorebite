@@ -1,0 +1,146 @@
+{
+  "body" : {
+    "campList" : [ ],
+    "userFlag" : 13,
+    "experimentInfos" : [ {
+      "reportData" : "29",
+      "action" : 0,
+      "type" : 1
+    } ],
+    "collocationGoods" : [ ],
+    "hideSelected" : 1,
+    "productDetail" : {
+      "serviceTips" : {
+        "serviceContent" : "加工服务免费提供，但需要额外10-15分钟准备时间，加工商品暂不提供退货服务，请您谅解",
+        "serviceTipsTitle" : "服务说明"
+      },
+      "commodityNum" : "4138977",
+      "originPrice" : "",
+      "preSaleTag" : 0,
+      "sm_price" : "87.9",
+      "limitQty" : 0,
+      "recommendMode" : 1,
+      "goodsReqType" : "0",
+      "cpSeq" : "CC1000000037",
+      "property" : [ {
+        "nameSeq" : "600002",
+        "name" : "品牌",
+        "oriName" : "品牌",
+        "valueSeq" : "427563",
+        "value" : "大牧汗"
+      }, {
+        "nameSeq" : "602362",
+        "name" : "包装方式",
+        "oriName" : "新鲜肉类包装方式",
+        "valueSeq" : "427136",
+        "value" : "袋装"
+      }, {
+        "nameSeq" : "603913",
+        "name" : "保存条件",
+        "oriName" : "保存条件",
+        "valueSeq" : "456376",
+        "value" : "冷冻"
+      }, {
+        "name" : "产地",
+        "value" : "见产品外包装"
+      } ],
+      "needBuyQty" : 1,
+      "NATInfo" : "",
+      "sendTimeTip" : "现在下单，最快明天09:00-15:00送达",
+      "dealManner" : [ ],
+      "nowDate" : "2026-05-06 15:35:59",
+      "priceUnit" : "袋",
+      "saleTypeDesc" : "加入购物车",
+      "specDesc" : "1袋",
+      "kind" : 1,
+      "sellingPoint" : "",
+      "coolTagUrl" : "https://membase-yxapp.feiniu.com/images/goods/freezeBig.png",
+      "stockTip" : "",
+      "validProductInfo" : {
+        "produceDate" : "",
+        "produceDateTip" : "",
+        "expirationDate" : ""
+      },
+      "isCollectLike" : 0,
+      "unit" : "袋",
+      "nowDateTime" : 1778052959000,
+      "onlySelf" : 0,
+      "isVoucherGoods" : "0",
+      "prepareTime" : "",
+      "hidePromotion" : false,
+      "smPriceBg" : 87.9,
+      "it_saleqty" : 108,
+      "orderLimitNum" : 0,
+      "specType" : 1,
+      "goodsTitleLeftTag" : [ ],
+      "sellingAiPoint" : [ "谷饲小公牛", "18-24月龄", "前后腿肉原切", "每份约2-3块", "低温排酸", "筋肉交错", "弹嫩劲道", "适宜卤煮" ],
+      "saleType" : 1,
+      "priceTip" : "",
+      "sm_pic_list" : [ "https://img10.fn-mart.com/pic/c091134ee0a5193f91dc/BnHT2212FTtMkMudnn/7YSGtaEalyUiZy/CsmUHGZ7fimAMuQCAAPVDp7wNoY423_org_q75.jpg.webp", "https://img10.fn-mart.com/pic/a9d7134ee0a9193f8ecb/B28nnn5TDnClhgZdzz/19maJacGMRZiuG/CsmUHGZ7fiiAG8bQAAJrMTd5Ytc103_org_q75.jpg.webp", "https://img10.fn-mart.com/pic/6342134ee0a5193f8e40/Kn8Tnn7zvTCdhduM42/7imRoGPxdyj9Xa/CsmRvWZ7fiiAByrZAATaTGZv_5o125_org_q75.jpg.webp", "https://img10.fn-mart.com/pic/973b134ee0a0193f8bad/knqnTT5nFzCghdZdNT/1ioykRvyOacaWy/CsmRvmZ7fiiAb0wnAAVFC8CQQ34953_org_q75.jpg.webp", "https://img10.fn-mart.com/pic/87b9134ee0ad193f9b9d/B2Hzzz5TvnfdBdZdnn/1YeaVaJadGVxZa/CsmUHWZ7fimAN7K0AALImIUSm1Y948_org_q75.jpg.webp" ],
+      "goodDetailURL" : "https://fnyx.feiniu.com/commodity/detail/html.shtml?skuCode=4138977&merchantCode=1&categoryCode=CC1000000037&safeBuyType=2",
+      "safeType" : 2,
+      "minQuantity" : 1,
+      "halfDayIconType" : "0",
+      "share" : {
+        "webPageUrl" : "https://fresh.feiniu.com/commodity/detail/share.shtml?skuCode=4138977&storeCode=1001&merchantCode=1&isVocherGoods=0",
+        "smallTalkPath" : "/pkg-www/pages/detail/index?id=4138977&saleStoreId=003&channelStoreId=0024&isVoucherGoods=0&merchantType=1&merchantCode=1&merchantStoreId=1001&f=1",
+        "smallTalkId" : "gh_5a75412a617c",
+        "hdImageUrl" : "https://img10.fn-mart.com/pic/c091134ee0a5193f91dc/BnHT2212FTtMkMudnn/7YSGtaEalyUiZy/CsmUHGZ7fimAMuQCAAPVDp7wNoY423_org_q75.jpg",
+        "thumbImageUrl" : "https://img10.fn-mart.com/pic/c091134ee0a5193f91dc/BnHT2212FTtMkMudnn/7YSGtaEalyUiZy/CsmUHGZ7fimAMuQCAAPVDp7wNoY423_org_q75.jpg"
+      },
+      "newComeIdent" : 0,
+      "goodsNo" : "4138977",
+      "itName" : "大牧汗原切小公牛牛腱子1kg/袋",
+      "otherFirmDelivery" : 0,
+      "factoryServices" : {
+        "title" : "售后无忧",
+        "factoryServiceItem" : [ {
+          "supportStatus" : 1,
+          "itemTitle" : "品质保证",
+          "itemDesc" : "对商品品质不满意可发起退款申请（我的-全部订单-订单详情页-申请）或联系客服进行售后处理（我的-页面右上角联系客服）"
+        } ]
+      },
+      "goodsShareInviteFriendAward" : {
+        "toLink" : "/pkg-activity/pages/invite-rebate/index",
+        "desc" : "邀请好友下单，可赚30元奖励"
+      },
+      "rankNewList" : {
+        "score" : "2",
+        "toLink" : "/pkg-www/pages/hot-selling-new/index?type=0&storeId=1001&firstCategoryId=CG1000000004&secondCategoryId=CG1500000003&rankId=&dataSource=0",
+        "name" : "牛肉热卖",
+        "type" : 2,
+        "skuCode" : "4138977"
+      },
+      "coldChainUrl" : "https://alcdn-img01.fn-mart.com/video/202103/10/424610254156746753.mp4",
+      "hotListRankingLevel" : 0,
+      "sendStatus" : 0,
+      "storeInfo" : {
+        "merchantCode" : "1",
+        "channelStoreId" : "0024",
+        "merchantStoreId" : "1001",
+        "saleStoreId" : "003",
+        "businessStoreId" : "10010001",
+        "merchantType" : "1"
+      }
+    },
+    "freshMonthVoucherNews" : {
+      "rightDesc" : "去开卡",
+      "privilegeInfo" : [ {
+        "toLink" : "/pkg-www/pages/fresh-monthly-ticket/index",
+        "privilegeDesc" : "开卡后送117元超值券包"
+      }, {
+        "toLink" : "/pkg-www/pages/fresh-monthly-ticket/index",
+        "couponPics" : [ "https://img10.fn-mart.com/pic/e4ef1348d2d829c2214e/B2Hzzz5TvnfdBdZdNn/79SGVRmak9zGpY/CsmRvGOtWZKAeY7EAAKyljmVMPM562_400x400_q75.jpg.webp", "https://img10.fn-mart.com/pic/8dc61349426027f8f7f4/B28nnn7z_2CMBgul_z/5YmRSyJGzaZiQy/CsmRuWIu_seAFS7vAARQ6xEIxOc619_400x400_q75.jpg.webp", "https://img10.fn-mart.com/pic/17d8134791002843cbda/Kz6Tnn72FztdBlulhz/1ioRmycaViza0G/CsmRt2C_LxSAFnBBAAazCo2vi0Q290_400x400_q75.png.webp", "https://img10.fn-mart.com/pic/e7e71351130e35f6c38e/kT6zzz7zv2fghgVduT/5YmRSySGtatany/CsmUGGgx01yARi-WAAwvZ7Ur_Gk294_400x400_q75.jpg.webp", "https://img10.fn-mart.com/pic/c45c13449fe3191cb59f/h2Hn22szD2CgKMZMtn/59eaSGhaZxciER/CsmRsF6qN-uANbw9AAHxknyu4Fk857_400x400_q75.jpg.webp", "https://img10.fn-mart.com/pic/a0dc134e63ec1add187d/h262TT5T_nfdBlZdbT/1iSGQahaKyKY0a/CsmRvmYwXtGAKegwAAcznzm0Z6E509_400x400_q75.jpg.webp", "https://img10.fn-mart.com/pic/946c135095aa25302add/knq2nn52FTLMhMul22/59oGMaWGVYcGcG/CsmRu2Mqp9KAa3spAAHveZCyKz8825_400x400_q75.jpg.webp", "https://img10.fn-mart.com/pic/6d45134bf5621b2f355a/Kn6zTT5n_zLMBdVM4n/1xmGBGmyfGPidR/CsmRvmQvihSAQsTYAAOWmh-dXI4711_400x400_q75.jpg.webp", "https://img10.fn-mart.com/pic/72521346547022c5015b/B2qT2252DnflhlVMFz/1iSGSaWac9UyDa/CsmRuWFpHpCASXJkAAaK3JVzXrY701_400x400_q75.jpg.webp", "https://img10.fn-mart.com/pic/d051134cae4027bfaaab/knqnTT5nFzCghdZdTT/sxmRJaoRXRQat9/CsmUHWTDfBGADn3uAAM3x2Zt90E877_400x400_q75.jpg.webp", "https://img10.fn-mart.com/pic/ced51350d4c7250b2c3d/h28TTT7nF2tlKdVgI2/59oRhyWapanyEG/CsmUKGgPK2-AZhpeAAkIFQTpsRU803_400x400_q75.jpg.webp", "https://img10.fn-mart.com/pic/704513534583259a785d/BT62nn72_zClhdZMW2/5iSymGCyERXytx/CsmUFmnrHmeAUASZAAjDiDWLFRs778_400x400_q75.jpg.webp", "https://img10.fn-mart.com/pic/347713518f63259c6cb4/Bz82221zFzCMkgugzz/79SGFROaX9zGMG/CsmUHWYd4WWAWH2HAAm-cJzlvkU220_400x400_q75.jpg.webp" ],
+        "privilegeDesc" : "开卡后天天0元领"
+      } ]
+    },
+    "menus" : [ ],
+    "sortRecommendMode" : 1
+  },
+  "debug" : [ ],
+  "elapsedTime" : 124,
+  "errorCode" : 0,
+  "errorDesc" : "",
+  "logCode" : "6b02329ae6870062d86d19a000393ac8",
+  "success" : true
+}

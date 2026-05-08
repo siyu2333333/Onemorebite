@@ -1,0 +1,942 @@
+{
+  "body" : {
+    "sort_param_list" : [ {
+      "sort_type" : 1,
+      "is_sort_order" : 1,
+      "sort_name" : "综合",
+      "default_order" : 1
+    }, {
+      "sort_type" : 2,
+      "is_sort_order" : 1,
+      "sort_name" : "销量",
+      "default_order" : 1
+    }, {
+      "sort_type" : 3,
+      "is_sort_order" : 1,
+      "sort_name" : "价格",
+      "default_order" : 1
+    } ],
+    "picUrlBase" : "",
+    "MerchandiseList" : [ {
+      "salesVolume" : "5",
+      "sale_unit" : "包",
+      "sm_name" : "【馋嘴零食】烤物语 五香牛肉干100g",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "5073",
+      "sm_price" : "33.8",
+      "sm_seq" : "3842581",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000107",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "",
+      "cornerType" : 0,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "3842581",
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "肉质紧实 | 营养健康 | 五香风味 | 醇厚口感",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "color" : "#FF2B1F",
+        "form" : 3,
+        "name" : "券",
+        "bordercolor" : "#FF4D43"
+      }, {
+        "color" : "#FF5000",
+        "form" : 3,
+        "name" : "多款式商品",
+        "bordercolor" : "#FF7232"
+      } ],
+      "cpSeqs" : [ "CG1000000007", "CG1500000017", "CC1000000107" ],
+      "main_small_corner" : [ ],
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/e0b21348d6a1281d6120/Bn82TTs2FTflBdUdbn/sioG_GmGpYdyuG/CsmRvGOS9R6ARl5ZAAGQzaTOxsQ217_400x400_q75.jpg.webp",
+      "corners" : [ ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 14,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "isPairItem" : "1",
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "",
+      "activityGoods" : false,
+      "exchangeCardLabel" : [ ],
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "5073"
+    }, {
+      "salesVolume" : "0",
+      "sale_unit" : "包",
+      "sm_name" : "海霸王甲天下黑珍猪(牛肉)水饺1200g",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "5073",
+      "sm_price" : "33.9",
+      "sm_seq" : "585215",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000085",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "https://membase-yxapp.feiniu.com/images/storage/456372_3x.png",
+      "cornerType" : 0,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "585215",
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "嫩滑爽口 | 汤汁鲜美 | 荤素搭配 | 可煮可蒸 | 薄皮劲道",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "color" : "#FF2B1F",
+        "form" : 3,
+        "name" : "券",
+        "bordercolor" : "#FF4D43"
+      }, {
+        "color" : "#FF2B1F",
+        "form" : 3,
+        "name" : "仅剩6件",
+        "bordercolor" : "#FF4D43"
+      } ],
+      "cpSeqs" : [ "CG1000000008", "CG309672", "CC1000000085" ],
+      "main_small_corner" : [ ],
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/dc0a133f3fe4dc0789aa/Bnq2zz72_2fMKdudO2/59eyoalRDGuxvR/CsmRslqDjOSAZ3DrAAficS1UXyA418_400x400_q75.jpg.webp",
+      "corners" : [ ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 6,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "https://alcdn-img01.fn-mart.com/video/202103/10/424610254156746753.mp4",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "https://membase-yxapp.feiniu.com/images/goods/freezeBig.png",
+      "activityGoods" : false,
+      "exchangeCardLabel" : [ ],
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "5073"
+    }, {
+      "salesVolume" : "1",
+      "sale_unit" : "袋",
+      "sm_name" : "华味亨烧烤味牛板筋65克/袋",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "5073",
+      "sm_price" : "13.8",
+      "sm_seq" : "3238776",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000182",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "",
+      "cornerType" : 0,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "3238776",
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "独立包装 | 精选主筋 | 嚼劲十足 | 嫩而不柴 | 鲜辣油润 | 川味醇香 | 反复蒸煮 | 大块切整 | 手工挑选",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "color" : "#FF2B1F",
+        "form" : 3,
+        "name" : "券",
+        "bordercolor" : "#FF4D43"
+      } ],
+      "cpSeqs" : [ "CG1000000011", "CG1500000035", "CC1000000182" ],
+      "main_small_corner" : [ ],
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/3956134b3a8720f6de2a/B28nnn7z_2CMBgulbz/5xoGuRpyVaVaka/CsmRvWO6TxGAJ5CpAANsZXMUXa0165_400x400_q75.jpg.webp",
+      "corners" : [ ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 20,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "",
+      "activityGoods" : false,
+      "exchangeCardLabel" : [ ],
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "5073"
+    }, {
+      "salesVolume" : "0",
+      "sale_unit" : "袋",
+      "sm_name" : "自然派鲜味牛肉干80克/袋",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "5073",
+      "sm_price" : "16.8",
+      "sm_seq" : "1708828",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000182",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "",
+      "cornerType" : 0,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "1708828",
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "leftLowerPicUrlBig" : "https://img14.fn-mart.com/pic/5dee13501f05284b6532/Kn6zTT5n_zLMBdVMVn/sxmRoapRERda09/CsmUGGkT9JKACFmIAAE1zz00Bcw593.png",
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "味香耐嚼 | 口感清爽 | 去肥肉滤油脂 | 开袋即食 | 精选牛肉 | 透明独立包装 | 朋友分享",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "color" : "#FF2B1F",
+        "form" : 3,
+        "name" : "仅剩8件",
+        "bordercolor" : "#FF4D43"
+      } ],
+      "upperLeftTag" : "9.4折",
+      "cpSeqs" : [ "CG1000000011", "CG1500000035", "CC1000000182" ],
+      "main_small_corner" : [ ],
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/8a78133b965527a7b671/Kz62zz12DTtlkdult2/1xmyeaVakaLGCR/CsmRr1eF-ruAJzfVAAGyM_29N_w784_400x400_q75.jpg.webp",
+      "corners" : [ ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 8,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "",
+      "activityGoods" : true,
+      "exchangeCardLabel" : [ ],
+      "service" : [ ],
+      "leftLowerPicUrl" : "https://img15.fn-mart.com/pic/e09513501f09284f6952/hn8zzz7zvntgBdZlU2/sxeGea0RJaMRP9/CsmUGGkT9KOAUN5CAAC2ec8dvSw074.png",
+      "hotListRankingLevel" : 0,
+      "it_mprice" : "18",
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "5073"
+    }, {
+      "salesVolume" : "2",
+      "sale_unit" : "袋",
+      "sm_name" : "宏香记爆汁牛肉（卤香味） 42克/袋",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "5073",
+      "sm_price" : "16.9",
+      "sm_seq" : "3225745",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000182",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "",
+      "cornerType" : 0,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "3225745",
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "锁住原汁 | 口感劲道 | 爆汁工艺",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "color" : "#FF2B1F",
+        "form" : 3,
+        "name" : "券",
+        "bordercolor" : "#FF4D43"
+      } ],
+      "cpSeqs" : [ "CG1000000011", "CG1500000035", "CC1000000182" ],
+      "main_small_corner" : [ ],
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/445913449eaa1b30a3ba/kn62zz1zDTflhdZdEz/7ieySGcGQiDazy/CsmRs16P5EOAToJ4AAcvZoYqu4E105_400x400_q75.jpg.webp",
+      "corners" : [ ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 24,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "",
+      "activityGoods" : false,
+      "exchangeCardLabel" : [ ],
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "5073"
+    }, {
+      "salesVolume" : "2",
+      "sale_unit" : "袋",
+      "sm_name" : "向日葵牛肉粒随机混合味250克/袋",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "5073",
+      "sm_price" : "16.8",
+      "sm_seq" : "3521638",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000182",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "",
+      "cornerType" : 1,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "3521638",
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "21.2g高蛋白 | 低脂4.0g | 粒粒醇香",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "color" : "#FF2B1F",
+        "form" : 3,
+        "name" : "满2件68折",
+        "bordercolor" : "#FF4D43"
+      }, {
+        "color" : "#FF2B1F",
+        "form" : 3,
+        "name" : "券",
+        "bordercolor" : "#FF4D43"
+      } ],
+      "cpSeqs" : [ "CG1000000011", "CG1500000035", "CC1000000182" ],
+      "main_small_corner" : [ ],
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/052e1347cb7c2bb60519/kz8zTT1n_zCdkdVMtT/sxeGeaORhauRmR/CsmRtWDv-zCACx0BAASCiqxx7nw326_400x400_q75.jpg.webp",
+      "corners" : [ {
+        "borderColor" : "#FFE9E8",
+        "bgColor" : "#FFE9E8",
+        "endColor" : "#FFE9E8",
+        "type" : 2,
+        "textColor" : "#FF2B1F",
+        "desc" : "满2件68折",
+        "startColor" : "#FFE9E8"
+      } ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 127,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "",
+      "activityGoods" : false,
+      "exchangeCardLabel" : [ ],
+      "expectTakeObj" : {
+        "unitPrice" : "¥11.42",
+        "unit" : "袋",
+        "threshold" : 2
+      },
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "5073",
+      "campaign_seq" : "239058"
+    }, {
+      "salesVolume" : "0",
+      "sale_unit" : "袋",
+      "sm_name" : "向日葵牛肉粒五香味250克/袋",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "5073",
+      "sm_price" : "16.8",
+      "sm_seq" : "3521639",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000182",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "",
+      "cornerType" : 1,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "3521639",
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "高蛋白21.2g/100g | 低脂4.3g/100g | 五香浓郁回味醇",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "color" : "#FF2B1F",
+        "form" : 3,
+        "name" : "满2件68折",
+        "bordercolor" : "#FF4D43"
+      }, {
+        "color" : "#FF2B1F",
+        "form" : 3,
+        "name" : "券",
+        "bordercolor" : "#FF4D43"
+      } ],
+      "cpSeqs" : [ "CG1000000011", "CG1500000035", "CC1000000182" ],
+      "main_small_corner" : [ ],
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/982c1347cb7729c8ef12/hTqnzz7TvnfdkMUdcn/59mGeRLxQ9SGFa/CsmRtGDv-6mANf7PAARNDksidOM975_400x400_q75.jpg.webp",
+      "corners" : [ {
+        "borderColor" : "#FFE9E8",
+        "bgColor" : "#FFE9E8",
+        "endColor" : "#FFE9E8",
+        "type" : 2,
+        "textColor" : "#FF2B1F",
+        "desc" : "满2件68折",
+        "startColor" : "#FFE9E8"
+      } ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 127,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "",
+      "activityGoods" : false,
+      "exchangeCardLabel" : [ ],
+      "expectTakeObj" : {
+        "unitPrice" : "¥11.42",
+        "unit" : "袋",
+        "threshold" : 2
+      },
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "5073",
+      "campaign_seq" : "239058"
+    }, {
+      "salesVolume" : "0",
+      "sale_unit" : "包",
+      "sm_name" : "自然派蜜汁味牛肉脯65g/包",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "5073",
+      "sm_price" : "16.8",
+      "sm_seq" : "1167265",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000182",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "",
+      "cornerType" : 0,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "1167265",
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "美味难挡 | 色泽诱人 | 开袋即食",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "color" : "#FF2B1F",
+        "form" : 3,
+        "name" : "券",
+        "bordercolor" : "#FF4D43"
+      }, {
+        "color" : "#FF2B1F",
+        "form" : 3,
+        "name" : "仅剩7件",
+        "bordercolor" : "#FF4D43"
+      } ],
+      "cpSeqs" : [ "CG1000000011", "CG1500000035", "CC1000000182" ],
+      "main_small_corner" : [ ],
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/57b413501f652612dbbc/Kz8Tnn1zvTLdhMVdVz/7imGea0GvaCR3G/CsmUGGkms3WATEcKAAJD_b0u41U614_400x400_q75.jpg.webp",
+      "corners" : [ ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 7,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "",
+      "activityGoods" : false,
+      "exchangeCardLabel" : [ ],
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "5073"
+    }, {
+      "salesVolume" : "20",
+      "sale_unit" : "袋",
+      "sm_name" : "【酥脆加倍】安井酥皮馅饼黑椒牛肉馅300g/袋（新老包装随机发货）",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "5073",
+      "sm_price" : "8.9",
+      "sm_seq" : "3269244",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000088",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "https://membase-yxapp.feiniu.com/images/storage/456372_3x.png",
+      "cornerType" : 1,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "3269244",
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "leftLowerPicUrlBig" : "https://img14.fn-mart.com/pic/5dee13501f05284b6532/Kn6zTT5n_zLMBdVMVn/sxmRoapRERda09/CsmUGGkT9JKACFmIAAE1zz00Bcw593.png",
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "馅多30% | 0反式脂肪 | 蛋白7.6g | 馅厚多汁 | 黑椒浓郁 | 牛肉细嫩 | 皮薄酥脆 | 多层酥皮 | 家庭共享",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "color" : "#FF5000",
+        "form" : 3,
+        "name" : "多款式商品",
+        "bordercolor" : "#FF7232"
+      } ],
+      "upperLeftTag" : "9折",
+      "cpSeqs" : [ "CG1000000008", "CG309668", "CC1000000088" ],
+      "main_small_corner" : [ ],
+      "recommendTagType" : 2,
+      "hasLowPriceTag" : 0,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/d2ba134c6eee2819076e/kn62zz1zDTflhdZd4z/5YSGeGKRoapRJy/CsmRvWSJfYCAdxjLAAb6y70dHMs630_400x400_q75.jpg.webp",
+      "corners" : [ {
+        "borderColor" : "#FFE9E8",
+        "bgColor" : "#FFE9E8",
+        "endColor" : "#FFE9E8",
+        "type" : 2,
+        "textColor" : "#FF2B1F",
+        "desc" : "省1元",
+        "startColor" : "#FFE9E8"
+      } ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 29,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "recommendTag" : "超过17.8万人已下单",
+      "isPairItem" : "1",
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "https://alcdn-img01.fn-mart.com/video/202103/10/424610254156746753.mp4",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "https://membase-yxapp.feiniu.com/images/goods/freezeBig.png",
+      "activityGoods" : true,
+      "exchangeCardLabel" : [ ],
+      "service" : [ ],
+      "leftLowerPicUrl" : "https://img15.fn-mart.com/pic/e09513501f09284f6952/hn8zzz7zvntgBdZlU2/sxeGea0RJaMRP9/CsmUGGkT9KOAUN5CAAC2ec8dvSw074.png",
+      "hotListRankingLevel" : 0,
+      "it_mprice" : "9.9",
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "5073"
+    }, {
+      "salesVolume" : "32",
+      "sale_unit" : "袋",
+      "sm_name" : "【连袋加热】三全微波番茄肉酱面280g/袋",
+      "deliveryTimeLabele" : [ ],
+      "inside_store_id" : "5073",
+      "sm_price" : "4.95",
+      "sm_seq" : "3966759",
+      "abtest" : "",
+      "is_pop" : 0,
+      "lowerLeftCorner" : [ ],
+      "skuSource" : 0,
+      "cpSeq" : "CC1000000081",
+      "needBuyQty" : 1,
+      "storageConditionsFlag" : "https://membase-yxapp.feiniu.com/images/storage/456372_3x.png",
+      "cornerType" : 1,
+      "integralLabelName" : "",
+      "merchantCode" : "1",
+      "main_corner" : [ ],
+      "kind" : 1,
+      "sku_id" : "3966759",
+      "newRankingList" : {
+        "descDetail3" : "3",
+        "descDetail2" : "2",
+        "innerLink" : "/pkg-www/pages/hot-selling-new/index?type=0&storeId=5073&firstCategoryId=CG1000000008&secondCategoryId=CG309953&rankId=&dataSource=0",
+        "picLink" : "https://img10.fn-mart.com/pic/731f134db4ab28768e6f/kzHzzz52_2tgKduMNn/5xeRjaoaDGQYU9/CsmUI2dtGoCAZP00AAAseMG43ts190_400x400_q75.png.webp",
+        "descDetail1" : "面条米饭热卖",
+        "skuCode" : "3966759"
+      },
+      "goodsType" : 0,
+      "globalShopping" : 0,
+      "isVoucherGoods" : "0",
+      "qty" : 1,
+      "subtitle" : "酸甜可口 | 酸香爽口 | 意式风味 | 精心熬制",
+      "saleStoreId" : "003",
+      "items" : [ {
+        "bgcolor" : "#FF2B1F",
+        "bgColor" : "",
+        "color" : "#FF2B1F",
+        "form" : 4,
+        "bgcolorEnd" : "",
+        "name" : "省4.95元",
+        "bgcolorStart" : "#FF2B1F",
+        "bordercolor" : "#FFAAA5"
+      }, {
+        "color" : "#FF2B1F",
+        "form" : 3,
+        "name" : "券",
+        "bordercolor" : "#FF4D43"
+      }, {
+        "color" : "#FF5000",
+        "form" : 6,
+        "name" : "近90天低价",
+        "bordercolor" : "#FF7232"
+      } ],
+      "upperLeftTag" : "5折",
+      "cpSeqs" : [ "CG1000000008", "CG309953", "CC1000000081" ],
+      "main_small_corner" : [ ],
+      "hasLowPriceTag" : 1,
+      "remindStatus" : 0,
+      "sale_type" : 0,
+      "sm_pic" : "https://img10.fn-mart.com/pic/d124134c320a1bd1dcbc/Bz82221zFzCMkgugbz/5xoaWyXGjaZijy/CsmRvWRTKQWAV_OiAAhW7YS5Mhc726_400x400_q75.jpg.webp",
+      "corners" : [ {
+        "borderColor" : "#FFE9E8",
+        "bgColor" : "#FFE9E8",
+        "endColor" : "#FFE9E8",
+        "type" : 2,
+        "textColor" : "#FF2B1F",
+        "desc" : "省4.95元",
+        "startColor" : "#FFE9E8"
+      } ],
+      "channelStoreId" : "0024",
+      "sale_qty" : 21,
+      "isMultiSpecifition" : "0",
+      "isOfflineGoods" : 0,
+      "main_big_corner" : [ ],
+      "merchantType" : "1",
+      "sale_type_name" : "加入购物车",
+      "detailStorageVideoFlag" : "https://alcdn-img01.fn-mart.com/video/202103/10/424610254156746753.mp4",
+      "annualPurchaseLabel" : [ ],
+      "detailStorageFlag" : "https://membase-yxapp.feiniu.com/images/goods/freezeBig.png",
+      "activityGoods" : false,
+      "exchangeCardLabel" : [ ],
+      "service" : [ ],
+      "hotListRankingLevel" : 0,
+      "it_mprice" : "9.9",
+      "appShowType" : 1,
+      "delivery_tip" : "",
+      "merchantStoreId" : "5073"
+    } ],
+    "refined_keywords" : "",
+    "refinedAbtest" : 0,
+    "firstCategoryId" : "CG1000000011",
+    "delivery_tips" : "",
+    "filter" : [ {
+      "has_child_nodes" : 1,
+      "form" : 2,
+      "children" : [ {
+        "min" : "",
+        "max" : "",
+        "name" : "价格",
+        "subform" : 2
+      }, {
+        "name" : "分类",
+        "subform" : 3,
+        "child" : [ {
+          "si_seq" : "",
+          "cp_name" : "全部",
+          "cp_seq" : ""
+        }, {
+          "children" : [ {
+            "si_seq" : "C1253208",
+            "cp_name" : "自热食品",
+            "cp_seq" : "CC311989"
+          }, {
+            "si_seq" : "C1161501",
+            "cp_name" : "方便面",
+            "cp_seq" : "CC1000000212"
+          } ],
+          "si_seq" : "C1159772",
+          "cp_name" : "方便速食",
+          "cp_seq" : "CG1500000042"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1161284",
+            "cp_name" : "牛肉小食",
+            "cp_seq" : "CC1000000182"
+          } ],
+          "si_seq" : "C1159681",
+          "cp_name" : "肉干小食",
+          "cp_seq" : "CG1500000035"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1161613",
+            "cp_name" : "肉类酱",
+            "cp_seq" : "CC1000000228"
+          }, {
+            "si_seq" : "C1161627",
+            "cp_name" : "其它酱",
+            "cp_seq" : "CC1000000230"
+          } ],
+          "si_seq" : "C1159877",
+          "cp_name" : "烹饪调味酱",
+          "cp_seq" : "CG1500000044"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1258023",
+            "cp_name" : "披萨/卷类",
+            "cp_seq" : "CC312012"
+          }, {
+            "si_seq" : "C1160269",
+            "cp_name" : "手抓饼/馅饼",
+            "cp_seq" : "CC1000000088"
+          } ],
+          "si_seq" : "C1163099",
+          "cp_name" : "饼类",
+          "cp_seq" : "CG309668"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1161508",
+            "cp_name" : "中式面条",
+            "cp_seq" : "CC1000000213"
+          } ],
+          "si_seq" : "C1253222",
+          "cp_name" : "面条/粉丝",
+          "cp_seq" : "CG311990"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1161823",
+            "cp_name" : "牛其它部位",
+            "cp_seq" : "CC1000000040"
+          }, {
+            "si_seq" : "C1161781",
+            "cp_name" : "牛腱",
+            "cp_seq" : "CC1000000037"
+          } ],
+          "si_seq" : "C1159947",
+          "cp_name" : "牛肉",
+          "cp_seq" : "CG1500000003"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1237869",
+            "cp_name" : "犬用湿粮",
+            "cp_seq" : "CC311529"
+          }, {
+            "si_seq" : "C1161018",
+            "cp_name" : "犬用零食",
+            "cp_seq" : "CC1000000353"
+          } ],
+          "si_seq" : "C1237809",
+          "cp_name" : "狗狗食品",
+          "cp_seq" : "CG311525"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1160206",
+            "cp_name" : "调味速食面",
+            "cp_seq" : "CC1000000081"
+          } ],
+          "si_seq" : "C1179999",
+          "cp_name" : "面条米饭",
+          "cp_seq" : "CG309953"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1160472",
+            "cp_name" : "特色小食",
+            "cp_seq" : "CC1000000107"
+          } ],
+          "si_seq" : "C1159394",
+          "cp_name" : "特色小吃",
+          "cp_seq" : "CG1500000017"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1160178",
+            "cp_name" : "火腿/培根",
+            "cp_seq" : "CC1000000079"
+          } ],
+          "si_seq" : "C1159240",
+          "cp_name" : "肉肠培根",
+          "cp_seq" : "CG1500000013"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1161193",
+            "cp_name" : "零食饼干",
+            "cp_seq" : "CC1000000169"
+          } ],
+          "si_seq" : "C1159660",
+          "cp_name" : "饼干曲奇",
+          "cp_seq" : "CG1500000032"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1255977",
+            "cp_name" : "快手菜",
+            "cp_seq" : "CC312004"
+          } ],
+          "si_seq" : "C1179985",
+          "cp_name" : "方便菜肴",
+          "cp_seq" : "CG309952"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1161270",
+            "cp_name" : "其他膨化",
+            "cp_seq" : "CC1000000180"
+          } ],
+          "si_seq" : "C1159674",
+          "cp_name" : "膨化零食",
+          "cp_seq" : "CG1500000034"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1161004",
+            "cp_name" : "猫用干粮",
+            "cp_seq" : "CC1000000352"
+          } ],
+          "si_seq" : "C1237795",
+          "cp_name" : "猫咪食品",
+          "cp_seq" : "CG311524"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1160381",
+            "cp_name" : "米粉/米面",
+            "cp_seq" : "CC1000000301"
+          } ],
+          "si_seq" : "C1159317",
+          "cp_name" : "婴幼辅食",
+          "cp_seq" : "CG1500000060"
+        }, {
+          "children" : [ {
+            "si_seq" : "C1159275",
+            "cp_name" : "水饺",
+            "cp_seq" : "CC1000000085"
+          } ],
+          "si_seq" : "C1163121",
+          "cp_name" : "❄️水饺/馄饨",
+          "cp_seq" : "CG309672"
+        } ]
+      } ]
+    } ],
+    "abtest" : "",
+    "total" : 62,
+    "screeningInfo" : [ {
+      "name" : "价格",
+      "subform" : 2,
+      "child" : [ ]
+    }, {
+      "name" : "分类",
+      "subform" : 3,
+      "child" : [ {
+        "cpSeq" : "CC1000000037",
+        "cpName" : "牛腱"
+      }, {
+        "cpSeq" : "CC312004",
+        "cpName" : "快手菜"
+      }, {
+        "cpSeq" : "CC1000000107",
+        "cpName" : "特色小食"
+      }, {
+        "cpSeq" : "CC1000000040",
+        "cpName" : "牛其它部位"
+      }, {
+        "cpSeq" : "CC1000000085",
+        "cpName" : "速冻水饺"
+      } ]
+    }, {
+      "name" : "品牌",
+      "subform" : 4,
+      "child" : [ {
+        "brandName" : "天萃庭",
+        "newBrandId" : "1993153"
+      }, {
+        "brandName" : "冻品先生",
+        "newBrandId" : "1635492420262"
+      }, {
+        "brandName" : "海霸王",
+        "newBrandId" : "1988265"
+      }, {
+        "brandName" : "烤物语",
+        "newBrandId" : "1990471"
+      }, {
+        "brandName" : "阿牧禾",
+        "newBrandId" : "1991252"
+      } ]
+    } ],
+    "totalPageCount" : 7,
+    "keyWordsRecommend" : [ ],
+    "relationCatrgory" : "CC1000000037,CC309685,CC1000000102,CC312004,CC1000000036,CC1000000035,CC311500,CC311501,CC1000000089,CC1000000107,CC311986,CC1000000106,CC1000000105,CC1000000039,CC1000000038,CC1000000104,CC311517,CC309688,CC309742,CC1000000091,CC309718,CC1000000080,CC1000000040,CC309682,CC1000000100,CC309948,CC1000000086,CC1000000085,CC1000000189,CC1000000092",
+    "shoppers" : {
+      "whetherToHit" : 0,
+      "shoppingGuideType" : 0
+    },
+    "seacondCategoryId" : "CG1500000035"
+  },
+  "debug" : [ ],
+  "elapsedTime" : 349,
+  "errorCode" : 0,
+  "errorDesc" : "",
+  "logCode" : "40c064ed266b880d7429371b688df975",
+  "success" : true
+}
