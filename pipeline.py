@@ -26,6 +26,8 @@ def run(input_dir=None, output_dir=None):
         print(f"错误: {input_dir} 中没有 .txt 或 .json 文件")
         sys.exit(1)
 
+    batch_ts = datetime.now().strftime("%Y%m%d_%H%M%S")
+    image_dir = Path(config.IMAGE_DIR) / batch_ts
     print(f"扫描到 {len(json_files)} 个JSON文件")
 
     raw_records = []
@@ -33,6 +35,9 @@ def run(input_dir=None, output_dir=None):
         try:
             data = json.loads(fp.read_text(encoding="utf-8"))
             parser = detect_parser(data)
+            if parser.page_type == "search":
+                print(f"  [跳过] {fp.name}: 搜索页类型，不产生商品记录")
+                continue
             records = parser.parse(data)
             for r in records:
                 r.source_file = fp.name
@@ -67,7 +72,7 @@ def run(input_dir=None, output_dir=None):
 
     all_urls = list(set(u for r in records for u in r.image_urls if u))
     if all_urls:
-        url_map = download_batch(all_urls)
+        url_map = download_batch(all_urls, target_dir=str(image_dir))
         for r in records:
             r.local_images = [url_map[u] for u in r.image_urls if u in url_map]
 
@@ -78,6 +83,7 @@ def run(input_dir=None, output_dir=None):
                     fields = extract_batch(r.local_images)
                     r.product_form = fields.get("product_form", "") or ""
                     r.raw_material = fields.get("raw_material", "") or ""
+                    r.cooking_method = fields.get("cooking_method", "") or ""
                     if not r.storage_type:
                         hint = fields.get("storage_hint", "") or ""
                         if hint:
@@ -102,9 +108,9 @@ def run(input_dir=None, output_dir=None):
     else:
         print("跳过LLM推理(INFERENCE_API_KEY未设置)")
 
-    output_dir.mkdir(parents=True, exist_ok=True)
-    timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
-    out_path = output_dir / f"全产品规划_{timestamp}.xlsx"
+    out_subdir = output_dir / batch_ts
+    out_subdir.mkdir(parents=True, exist_ok=True)
+    out_path = out_subdir / f"全产品规划_{batch_ts}.xlsx"
     write_excel(records, str(out_path))
 
     print(f"\n完成: {len(records)} 条商品记录 → {out_path}")

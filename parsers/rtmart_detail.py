@@ -1,3 +1,5 @@
+from playwright.sync_api import sync_playwright
+
 from parsers.base import BaseParser, register_parser, safe_get, calc_per_kg, infer_storage_type, infer_category, infer_country
 from models import ProductRecord
 
@@ -56,9 +58,16 @@ class RTMartDetailParser(BaseParser):
             else:
                 r.selling_points = tag_str
 
-        img_list = detail.get("sm_pic_list", [])
-        if img_list:
-            r.image_urls = [u for u in img_list if u]
+        selling_point = detail.get("sellingPoint", "").strip()
+        if selling_point:
+            if r.selling_points:
+                r.selling_points = f"{r.selling_points} | {selling_point}"
+            else:
+                r.selling_points = selling_point
+
+        good_detail_url = detail.get("goodDetailURL", "")
+        if good_detail_url:
+            r.image_urls = _fetch_detail_images(good_detail_url)
 
         valid_info = detail.get("validProductInfo", {})
         if isinstance(valid_info, dict):
@@ -67,3 +76,29 @@ class RTMartDetailParser(BaseParser):
         r.category = infer_category(r.product_name, detail.get("cpSeq", ""))
 
         return [r]
+
+
+def _fetch_detail_images(detail_url, timeout=30000):
+    try:
+        with sync_playwright() as pw:
+            browser = pw.chromium.launch(headless=True)
+            page = browser.new_page()
+            page.goto(detail_url, wait_until="networkidle", timeout=timeout)
+            page.wait_for_timeout(2000)
+
+            img_urls = page.evaluate("""() => {
+                const imgs = document.querySelectorAll('img');
+                return Array.from(imgs).map(i => i.src).filter(s => s);
+            }""")
+
+            browser.close()
+
+            seen = set()
+            unique = []
+            for u in img_urls:
+                if u not in seen:
+                    seen.add(u)
+                    unique.append(u)
+            return unique
+    except Exception:
+        return []

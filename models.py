@@ -17,6 +17,7 @@ class ProductRecord:
     selling_points: str = ""
     product_form: str = ""
     raw_material: str = ""
+    cooking_method: str = ""
     cuisine_style: str = ""
     scene: str = ""
     suggested_name: str = ""
@@ -39,6 +40,7 @@ class ProductRecord:
             "冷冻/冰鲜": self.storage_type,
             "品类": self.category,
             "菜式": self.cuisine_style,
+            "烹饪方式": self.cooking_method,
             "场景": self.scene,
             "建议产品名称": self.suggested_name,
             "产品形态\n(排，块，丝，粒，片，肉糜)": self.product_form,

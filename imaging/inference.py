@@ -87,6 +87,7 @@ def infer_fields(record):
         "selling_points": record.selling_points,
         "product_form": record.product_form,
         "raw_material": record.raw_material,
+        "cooking_method": record.cooking_method,
     }
     context = json.dumps(known, ensure_ascii=False, indent=2)
     prompt = INFERENCE_PROMPT.format(context=context)
