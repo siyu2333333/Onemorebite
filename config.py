@@ -1,10 +1,10 @@
 import os
 
-DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "sk-c38a1c33e28e49eb987aa67b3e777b5b")
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "sk-")
 DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com/v1")
 DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-v4-flash")
 
-QWEN_API_KEY = os.getenv("QWEN_API_KEY", "sk-26a08996950e4a81a3050b506a2a2687")
+QWEN_API_KEY = os.getenv("QWEN_API_KEY", "sk-")
 QWEN_BASE_URL = os.getenv("QWEN_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1")
 QWEN_MODEL = os.getenv("QWEN_MODEL", "qwen3-vl-flash")
 
@@ -51,4 +51,4 @@ IMAGE_EXTRACT_FIELDS = {
 
 INFERENCE_MODEL = os.getenv("INFERENCE_MODEL", "deepseek-v4-flash")
 INFERENCE_BASE_URL = os.getenv("INFERENCE_BASE_URL", "https://api.deepseek.com/v1")
-INFERENCE_API_KEY = os.getenv("INFERENCE_API_KEY", "sk-c38a1c33e28e49eb987aa67b3e777b5b")
+INFERENCE_API_KEY = os.getenv("INFERENCE_API_KEY", "sk-")
