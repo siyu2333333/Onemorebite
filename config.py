@@ -1,10 +1,30 @@
 import os
+from pathlib import Path
 
-DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY", "sk-")
+
+def _load_env():
+    env_path = Path(__file__).resolve().parent / ".env"
+    if not env_path.exists():
+        return
+    with open(env_path, encoding="utf-8") as f:
+        for line in f:
+            line = line.strip()
+            if not line or line.startswith("#") or "=" not in line:
+                continue
+            key, _, value = line.partition("=")
+            key = key.strip()
+            value = value.strip().strip('"').strip("'")
+            if key and key not in os.environ:
+                os.environ[key] = value
+
+
+_load_env()
+
+DEEPSEEK_API_KEY = os.getenv("DEEPSEEK_API_KEY")
 DEEPSEEK_BASE_URL = os.getenv("DEEPSEEK_BASE_URL", "https://api.deepseek.com/v1")
 DEEPSEEK_MODEL = os.getenv("DEEPSEEK_MODEL", "deepseek-v4-flash")
 
-QWEN_API_KEY = os.getenv("QWEN_API_KEY", "sk-")
+QWEN_API_KEY = os.getenv("QWEN_API_KEY")
 QWEN_BASE_URL = os.getenv("QWEN_BASE_URL", "https://dashscope.aliyuncs.com/compatible-mode/v1")
 QWEN_MODEL = os.getenv("QWEN_MODEL", "qwen3-vl-flash")
 
@@ -51,4 +71,4 @@ IMAGE_EXTRACT_FIELDS = {
 
 INFERENCE_MODEL = os.getenv("INFERENCE_MODEL", "deepseek-v4-flash")
 INFERENCE_BASE_URL = os.getenv("INFERENCE_BASE_URL", "https://api.deepseek.com/v1")
-INFERENCE_API_KEY = os.getenv("INFERENCE_API_KEY", "sk-")
+INFERENCE_API_KEY = os.getenv("INFERENCE_API_KEY")
